@@ -11,3 +11,12 @@ Kemudian di fase Planning dimulai dengan merumuskan estimasi kerja, kebutuhan su
 Berlanjut ditahapan Modeling yaitu dengan membuat perancangan struktur data,arsitektur, tampilan, dan algoritma perangkat lunak.<br />
 Ditahap Construction akan mencangkup tahapan uji coba pengoperasian perangkat lunak untuk mengetahui kelemahannya.<br />
 Setelah berhasil dibuat, perangkat lunak disebarluaskan untuk diimplementasikan pada perangkat pengguna secara umum.<br />
+ <br />
+**2. Metode RAD**<br />
+![RAD](https://user-images.githubusercontent.com/75562356/135092038-06fe9914-44ec-45f7-9e9e-eeda7df8b3a4.png)
+Metode ini merupakan kepanjangan dari *Rapid Application Development* . Metode RAD ini menggunakan pendekatan iterative dan incremental, tetapi lebih mnenekankan pada tenggat waktu dan efisiensi biaya yang sesuai dengan kebutuhan. <br />
+Proses pengembangan perangkat lunak dengan menggunakan metode RAD dianggap lebih singkat. Di samping itu, tahapan kerja pada metode ini juga lebih sedikit. <br />
+Alur kerja dalam metode ini hanya dibagi menjadi tiga tahap. <br />
+Pertama, identifikasi tujuan yang langsung diiringi dengan komunikasi dan perancangan, dimana seluruh pihak terlibat aktif dalam setiap perumusannya. <br />
+Tahap kedua yaitu proses mendesain system atau perangkat lunak sesuai kebutuhan. <br />
+Tahap terakhir yaitu implementasi. Ketika pengguna sudah merasa terpuaskan, Desain perangkat lunak mulai diterjemahkan dalam bahasa mesin dan bisa digunakan.<br />
